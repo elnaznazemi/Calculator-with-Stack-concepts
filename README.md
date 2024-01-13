@@ -3,7 +3,6 @@ Introduction
 This C++ program implements an Object-Oriented Programming (OOP) stack and provides functionalities for evaluating arithmetic expressions. The program includes a stack class that supports basic stack operations, as well as functions for diagnosing arithmetic operations, converting infix expressions to prefix and postfix notations, and evaluating those expressions.
 
 Stack Class
-class Stack
 Public Members:
 Constructor: Initializes the stack with a specified size (default is 100).
 bool isempty(): Checks if the stack is empty.
